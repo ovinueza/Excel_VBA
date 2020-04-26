@@ -4,7 +4,7 @@
 
 Create a VBA script to analyze stock market data. 
 
-Easy Level:
+**Easy Level:**
 
 Create a script that will loop through one year of stock data for each run and return the total volume each stock had over that year.
 
@@ -12,7 +12,7 @@ You will also need to display the ticker symbol to coincide with the total stock
 
 Your result should look as follows (note: all solution images are for 2015 data).
 
-Hard Level:
+**Hard Level:**
 
 Create a script that will loop through all the stocks for one year for each run and take the following information.
 
